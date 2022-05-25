@@ -1,0 +1,179 @@
+body{
+    padding: 0;
+    margin: 0;
+   
+}
+
+.gauche{
+    display: flex;
+    position: relative;
+    top: 10px;
+    left:-60px
+   
+}
+
+.droite{
+    display: flex;
+    position: relative;
+    top: 15px;
+    left: 70px;
+}
+
+.logon{
+    display: flex;
+    border: 1px solid;
+    color: #48c774;
+    padding: 5px;
+}
+
+.task{
+    position: relative;
+    top: 10px;
+    left: 15px;
+}
+
+.layout{
+    position: relative;
+    bottom: 4spx;
+    right: 8px;
+    color: #48c774;
+    top: 3px;
+}
+
+.user{
+    position: relative;
+    left: -15px;
+    top: 10px;
+}
+
+.brack{
+    position: relative;
+    left: -8px;
+    top: 6px;
+}
+
+.bracke{
+    position: relative;
+    top: 6px;
+}
+
+.container-fluid{
+    position: relative;
+    top: 20px;
+    padding-bottom: -40px;
+    margin-bottom: 30px;
+    padding-left: 10px;
+   
+    
+}
+
+.photoss{
+    display: flex;
+    padding-top: 60px;
+    padding-bottom: 90px;
+    padding-right: 40px;
+    margin-top: 50px;
+    margin-left: 90px;
+    margin-bottom: 60px;
+    width: 80%;
+    background-color: #fff;
+    border-radius: 10px;
+    position: relative;
+    left: 15px;
+
+}
+
+.linkk{
+    position: relative;
+    bottom: 30px;
+    padding-left: 10px;
+}
+
+.firt{
+    position: relative;
+    top: 45px;
+    color: #d02341;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.firt p a{
+    text-decoration: none;
+    color: #d02341;
+}
+
+.contenu{
+    background-color: #fff;
+    border-radius: 10px;
+    padding-left: 30px; 
+    padding-right: 60px;
+    padding-top: 20px;
+    padding-bottom: 100px;
+    margin-top: 30px;
+    width: 85%;
+    position: relative;
+    right: 10px;
+    top: 20px;
+    font-size: 16px;
+    
+}
+
+ul li a{
+    text-decoration: none;
+    color: #d02341;
+}
+
+/* :hover a{
+    color: #d02341;
+} */
+
+#name{
+    position: relative;
+    left: 120px;
+    width: 30%;
+}
+
+#username{
+    position: relative;
+    left: 100px;
+    width: 30%;
+}
+
+#personnell{
+    position: relative;
+    left: 30px;
+    width: 40%;
+}
+
+.teaches{
+    background-color: #fff;
+    border-radius: 10px;
+   
+    position: relative;
+    bottom: 255px;
+    /* left: 130px; */
+    margin-left: 115px;
+    margin-right: 200px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+}
+
+.insidee{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    margin-right: 30px;
+}
+
+.laste{
+    padding-top: 10px;
+    position: relative;
+    left: 12px;
+    
+}
+
+button{
+    color: #fff;
+}
